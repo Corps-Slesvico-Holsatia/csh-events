@@ -1,0 +1,2 @@
+# csh-events
+Event management
